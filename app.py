@@ -1,6 +1,6 @@
-def add(x, y):
+def add(x, y, z):
 
-    return x + y
+    return x + y + z
 
 def subtraction(x, y):
 
