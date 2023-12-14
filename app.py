@@ -2,9 +2,9 @@ def add(x, y):
 
     return x + y
 
-def subtraction(x, y):
+def subtraction(x, y, z):
 
-    return x - y
+    return x - y - z
 
 
 def division(x, y):
